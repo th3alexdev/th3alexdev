@@ -15,6 +15,18 @@ I'm a frontend developer from Venezuela 🇻🇪. Currently, I'm 20 years old, a
 ![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+
+## 🔭 I’m currently working on
+
+I'm currently building a Weather App using React and JavaScript. The app fetches weather summaries and forecasts from OpenWeatherMap API and displays them in an easy-to-read format. Additionally, I'm using Unsplash API to dynamically fetch an image that corresponds to the location's weather conditions. The app is being developed using Vitejs, and I've made sure that it's adaptive and responsive on all devices. 
+
+Some of the features I'm implementing include:
+ - [x] Optimized API calls for fast and efficient data retrieval.
+ - [x] Custom hooks in React to manage state and data fetching.
+ - [x] Comprehensive error handling to provide a seamless user experience.
+ - [x] Integration with OpenWeatherMap and Unsplash APIs to fetch real-time weather and image data.
+ - [x] Clean and responsive UI design with full accessibility support.
+
 ## Recent Projects 👨‍💻
  - Weather App ☔ - 95% ready.
  - Simon Says Game 🗣️ [Repo](https://github.com/th3alexdev/simonsays/) | [Demo](https://th3alexdev.github.io/simonsays/)
@@ -23,4 +35,4 @@ I'm a frontend developer from Venezuela 🇻🇪. Currently, I'm 20 years old, a
  - Disney + Clon 🎬 - in development.
  - Music App ✨ - in development.
 
-<h3 font-size="1rem">¡Thank you for visiting my GitHub profile! <img width="25" src="https://i.imgur.com/lzBnb2L.png"/></h3>
+<h3 font-size="1rem">Thank you for visiting my GitHub profile! <img width="25" src="https://i.imgur.com/lzBnb2L.png"/></h3>
