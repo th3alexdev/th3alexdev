@@ -28,7 +28,7 @@ Some of the features I'm implementing include:
  - [x] Clean and responsive UI design with full accessibility support.
 
 ## Recent Projects 👨‍💻
- - Weather App ☔ - 95% ready.
+ - Weather App ☔ - [Repo](https://github.com/th3alexdev/weather-app/) | [Demo](https://th3alexdev.github.io/weather-app/)
  - Simon Says Game 🗣️ [Repo](https://github.com/th3alexdev/simonsays/) | [Demo](https://th3alexdev.github.io/simonsays/)
  - To Do App 📝 - [Repo](https://github.com/th3alexdev/todoapp/) | [Demo](https://th3alexdev.github.io/todoapp/)
  - Personal Portfolio 💫 - [Repo](https://github.com/th3alexdev/portfolio) | [Demo](https://alexanderperez.netlify.app/)
