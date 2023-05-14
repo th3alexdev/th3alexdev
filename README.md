@@ -18,7 +18,7 @@ I'm a frontend developer from Venezuela 🇻🇪. Currently, I'm 20 years old, a
 
 ## 🔭 I’m currently working on
 
-I'm currently working on a browser extension called SmartType. The extension allows users to create custom commands that automatically expand into predefined text snippets. SmartType aims to provide users with a convenient way to automate repetitive tasks by creating custom commands. Other of the main use cases for SmartType is prompts storage conmmonly used in working with AI, such //showSocialMedia, //improveWriting, or //doResume, which expands into a pre-saved prompt, it can also be utilized to streamline various other tasks.
+I'm currently working on a browser extension called SmartType. The extension allows users to create custom commands that automatically expand into predefined text snippets. SmartType aims to provide users with a convenient way to automate repetitive tasks by creating custom commands. Other of the main use cases for SmartType is prompts storage conmmonly used in working with AI, such ``//showSocialMedia``, ``//improveWriting``, or ``//doResume``, which expands into a pre-saved prompt, it can also be utilized to streamline various other tasks.
 
 Some of the features I'm implementing include:
  - [x] User-friendly interface for managing commands and their expansions.
