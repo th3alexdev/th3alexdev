@@ -18,16 +18,19 @@ I'm a frontend developer from Venezuela 🇻🇪. Currently, I'm 20 years old, a
 
 ## 🔭 I’m currently working on
 
-I'm currently building a Weather App using React and JavaScript. The app fetches weather summaries and forecasts from OpenWeatherMap API and displays them in an easy-to-read format. Additionally, I'm using Unsplash API to dynamically fetch an image that corresponds to the location's weather conditions. The app is being developed using Vitejs, and I've made sure that it's adaptive and responsive on all devices. 
+I'm currently working on a browser extension called SmartType. The extension allows users to create custom commands that automatically expand into predefined text snippets. SmartType aims to provide users with a convenient way to automate repetitive tasks by creating custom commands. Other of the main use cases for SmartType is prompts storage conmmonly used in working with AI, such //showSocialMedia, //improveWriting, or //doResume, which expands into a pre-saved prompt, it can also be utilized to streamline various other tasks.
 
 Some of the features I'm implementing include:
- - [x] Optimized API calls for fast and efficient data retrieval.
- - [x] Custom hooks in React to manage state and data fetching.
- - [x] Comprehensive error handling to provide a seamless user experience.
- - [x] Integration with OpenWeatherMap and Unsplash APIs to fetch real-time weather and image data.
- - [x] Clean and responsive UI design with full accessibility support.
+ - [x] User-friendly interface for managing commands and their expansions.
+ - [x] Customizable shortcuts for triggering the expansions.
+ - [x] Support for dynamic variables within expansions for personalized content.
+ - [x] Import and export functionality to easily share commands with others.
+ - [x] Cross-browser compatibility to cater to a wide range of users.
+
+With Text Expander, users will have the power to automate their workflows, save time, and enhance their productivity by eliminating repetitive typing tasks.
 
 ## Recent Projects 👨‍💻
+ - Text Expander Browser Extension ⌨️ - 10%
  - Weather App ☔ - [Repo](https://github.com/th3alexdev/weather-app/) | [Demo](https://th3alexdev.github.io/weather-app/)
  - Simon Says Game 🗣️ [Repo](https://github.com/th3alexdev/simonsays/) | [Demo](https://th3alexdev.github.io/simonsays/)
  - To Do App 📝 - [Repo](https://github.com/th3alexdev/todoapp/) | [Demo](https://th3alexdev.github.io/todoapp/)
