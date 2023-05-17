@@ -30,7 +30,7 @@ Some of the features I'm implementing include:
 With Text Expander, users will have the power to automate their workflows, save time, and enhance their productivity by eliminating repetitive typing tasks.
 
 ## Recent Projects 👨‍💻
- - Text Expander Browser Extension ⌨️ - 10%
+ - Text Expander Browser Extension ⌨️ - 30%
  - Weather App ☔ - [Repo](https://github.com/th3alexdev/weather-app/) | [Demo](https://th3alexdev.github.io/weather-app/)
  - Simon Says Game 🗣️ [Repo](https://github.com/th3alexdev/simonsays/) | [Demo](https://th3alexdev.github.io/simonsays/)
  - To Do App 📝 - [Repo](https://github.com/th3alexdev/todoapp/) | [Demo](https://th3alexdev.github.io/todoapp/)
