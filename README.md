@@ -12,6 +12,7 @@ I'm a frontend developer from Venezuela 🇻🇪. Currently, I'm 20 years old, a
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TypeScript Badge](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
 ![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -30,7 +31,7 @@ Some of the features I'm implementing include:
 With Text Expander, users will have the power to automate their workflows, save time, and enhance their productivity by eliminating repetitive typing tasks.
 
 ## Recent Projects 👨‍💻
- - Text Expander Browser Extension ⌨️ - 30%
+ - Text Expander Browser Extension ⌨️ - 85%
  - Weather App ☔ - [Repo](https://github.com/th3alexdev/weather-app/) | [Demo](https://th3alexdev.github.io/weather-app/)
  - Simon Says Game 🗣️ [Repo](https://github.com/th3alexdev/simonsays/) | [Demo](https://th3alexdev.github.io/simonsays/)
  - To Do App 📝 - [Repo](https://github.com/th3alexdev/todoapp/) | [Demo](https://th3alexdev.github.io/todoapp/)
