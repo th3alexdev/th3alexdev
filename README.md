@@ -35,7 +35,7 @@ With Text Expander, users will have the power to automate their workflows, save 
  - Weather App ☔ - [Repo](https://github.com/th3alexdev/weather-app/) | [Demo](https://th3alexdev.github.io/weather-app/)
  - Simon Says Game 🗣️ [Repo](https://github.com/th3alexdev/simonsays/) | [Demo](https://th3alexdev.github.io/simonsays/)
  - To Do App 📝 - [Repo](https://github.com/th3alexdev/todoapp/) | [Demo](https://th3alexdev.github.io/todoapp/)
- - Personal Portfolio 💫 - [Repo](https://github.com/th3alexdev/portfolio) | [Demo](https://alexanderperez.netlify.app/)
+ - Personal Portfolio 💫 - [Repo](https://github.com/th3alexdev/portfolio) | [Demo](https://alexanderperez.vercel.app/)
  - Disney + Clon 🎬 - in development.
  - Music App ✨ - in development.
 
