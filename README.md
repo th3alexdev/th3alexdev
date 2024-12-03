@@ -1,8 +1,10 @@
-# Hey! I'm Alex 👋 
+# Hey! I'm Alex 😸
 
-[![Twitter Badge](https://img.shields.io/badge/-@th3alexdev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/th3alexdev)](https://twitter.com/th3alexdev) [![Proton Badge](https://img.shields.io/badge/dev.alexanderperez@protonmail.com-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=mailto:dev.alexanderperez@protonmail.com)](mailto:dev.alexanderperez@protonmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Alexander_Perez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/th3alexdev/)](https://www.linkedin.com/in/th3alexdev/) [![Platzi Badge](https://img.shields.io/badge/Platzi-98CA3F?logo=platzi&logoColor=fff&style=flat-square&link=https://platzi.com/p/alexanderfranciscog/)](https://platzi.com/p/alexanderfranciscog/)
+[![dev.alexanderperez@protonmail.com](https://img.shields.io/badge/dev.alexanderperez%40protonmail.com-6D4AFF?logo=proton&logoColor=fff&style=flat)](mailto:dev.alexanderperez@protonmail.com) [![Alexander Pérez](https://img.shields.io/badge/Alexander%20Pérez-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/alexanderfperezg/) [![Más sobre Alex](https://img.shields.io/badge/M%C3%A1s%20sobre%20Alex-768CFF?logo=bento&logoColor=fff&style=flat)](https://bento.me/alexanderperez) 
 
-I'm a frontend developer from Venezuela 🇻🇪. Currently, I'm 21 years old, and I am passionate about web development and creating incredible user experiences. I am always looking for new challenges that allow me to learn and improve my skills.
+I'm a Full-Stack developer from Venezuela 🇻🇪. I'm 22 years old, and I am passionate about web development and creating incredible user experiences. I am always looking for new challenges that allow me to learn and improve my skills.
+
+There's much more I could share about myself, but this website can explain it better: [alexanderperez.dev 👀](https://alexanderperez.dev/)
 
 ## I love working with 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
