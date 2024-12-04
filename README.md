@@ -4,7 +4,7 @@
 
 I'm a Full-Stack developer from Venezuela 🇻🇪. I'm 22 years old, and I am passionate about web development and creating incredible user experiences. I am always looking for new challenges that allow me to learn and improve my skills.
 
-There's much more I could share about myself, but this website can explain it better: [alexanderperez.dev 👀](https://alexanderperez.dev/)
+There's much more I could share about myself, but this website can explain it better: [alexanderperez.dev 👀](https://alexanderperez.dev/) (work in progress)
 
 ## I love working with 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -39,3 +39,4 @@ With Text Expander, users will have the power to automate their workflows, save 
  - To Do App 📝 - [Repo](https://github.com/th3alexdev/todoapp/) | [Demo](https://th3alexdev.github.io/todoapp/)
 
 <h3 font-size="1rem">Thank you for visiting my GitHub profile! <img width="25" src="https://i.imgur.com/lzBnb2L.png"/></h3>
+If you liked my projects, consider giving me a coffee (a caffelito)
