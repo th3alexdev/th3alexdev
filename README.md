@@ -39,4 +39,3 @@ With Text Expander, users will have the power to automate their workflows, save 
  - To Do App 📝 - [Repo](https://github.com/th3alexdev/todoapp/) | [Demo](https://th3alexdev.github.io/todoapp/)
 
 <h3 font-size="1rem">Thank you for visiting my GitHub profile! <img width="25" src="https://i.imgur.com/lzBnb2L.png"/></h3>
-If you liked my projects, consider giving me a coffee (a caffelito)
