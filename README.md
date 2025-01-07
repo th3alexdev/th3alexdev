@@ -4,8 +4,7 @@
 
 I'm a Full-Stack developer from Venezuela 🇻🇪. I'm 22 years old, and I am passionate about web development and creating incredible user experiences. I am always looking for new challenges that allow me to learn and improve my skills.
 
-There's much more I could share about myself, but this website can explain it better: [alexanderperez.dev 👀](https://alexanderperez.vercel.app/) (work in progress)
-
+There's much more I could share about myself, but this website can explain it better: [alexanderperez.dev 👀](https://alexanderperez.vercel.app/)
 ## I love working with 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -17,25 +16,9 @@ There's much more I could share about myself, but this website can explain it be
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 
-## 🔭 I’m currently working on
+## 😼 What I’m up to
+I’m currently working as a Full Stack Developer at Mercantil Bank, helping to build applications that improve customer experience and enable the company to offer better services. In my spare time, I dive into side projects that allow me to learn, experiment, and push the boundaries of my skills.
 
-I'm currently working on a browser extension called SmartType. The extension allows users to create custom commands that automatically expand into predefined text snippets. SmartType aims to provide users with a convenient way to automate repetitive tasks by creating custom commands. Other of the main use cases for SmartType is prompts storage conmmonly used in working with AI, such ``//showSocialMedia``, ``//improveWriting``, or ``//doResume``, which expands into a pre-saved prompt, it can also be utilized to streamline various other tasks.
-
-Some of the features I'm implementing include:
- - [x] User-friendly interface for managing commands and their expansions.
- - [x] Customizable shortcuts for triggering the expansions.
- - [x] Support for dynamic variables within expansions for personalized content.
- - [x] Import and export functionality to easily share commands with others.
- - [x] Cross-browser compatibility to cater to a wide range of users.
-
-With Text Expander, users will have the power to automate their workflows, save time, and enhance their productivity by eliminating repetitive typing tasks.
-
-## Recent Projects 👨‍💻
- - BukStore Editorial - [Repo](https://github.com/th3alexdev/pruebas-tecnicas/tree/main/pruebas/01-reading-list/th3alexdev) | [Demo](https://la-bukstore.vercel.app/)
- - Personal Portfolio 💫 - [Repo](https://github.com/th3alexdev/portfolio) | [Demo](https://alexanderperez.vercel.app/)
- - SmartType | Browser Extension ⌨️ - [Repo](https://github.com/th3alexdev/smart-type/)
- - Weather App ☔ - [Repo](https://github.com/th3alexdev/weather-app/) | [Demo](https://th3alexdev.github.io/weather-app/)
- - Simon Says Game 🗣️ [Repo](https://github.com/th3alexdev/simonsays/) | [Demo](https://th3alexdev.github.io/simonsays/)
- - To Do App 📝 - [Repo](https://github.com/th3alexdev/todoapp/) | [Demo](https://th3alexdev.github.io/todoapp/)
+I’m always creating new things, <b>so if you have something cool in mind, don’t hesitate to get in touch!</b>
 
 <h3 font-size="1rem">Thank you for visiting my GitHub profile! <img width="25" src="https://i.imgur.com/lzBnb2L.png"/></h3>
