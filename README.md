@@ -4,7 +4,7 @@
 
 I'm a Full-Stack developer from Venezuela 🇻🇪. I'm 22 years old, and I am passionate about web development and creating incredible user experiences. I am always looking for new challenges that allow me to learn and improve my skills.
 
-There's much more I could share about myself, but this website can explain it better: [alexanderperez.dev 👀](https://alexanderperez.vercel.app/)
+There's much more I could share about myself, but this website can explain it better: [alexanderperez.dev 👀](https://alexanderperez.dev/)
 ## I love working with 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
